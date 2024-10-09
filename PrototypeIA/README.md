@@ -1,7 +1,7 @@
 ![MCN](https://github.com/CQEN-QDCE/.github/blob/main/images/mcn.png)
 
 
-# Prototype du IA
+# Prototype IA
 
 ---
 
@@ -44,8 +44,6 @@ Le but de ce prototype est de démontrer la faisabilité et l'efficacité d'un g
     ## Exemple d’utilisation du IA
     
     L'IA peut être expérimentée sans avoir besoin d'un casque de réalité virtuelle (RV). Il vous suffit de placer "XR Interaction Manager" (votre personnage RV) dans le périmètre de conversation de l'IA. Ensuite, en appuyant sur "Play" en haut de votre écran, l'IA commencera immédiatement à dialoguer avec vous. Vous devrez alors lui poser une question pour continuer l'interaction.
-    
-   ![1](https://github.com/CQEN-QDCE/exp-vitrine-MCN/assets/117953316/cebc7999-82b6-4062-85fe-ff34f6eff81c)
 
 
     
