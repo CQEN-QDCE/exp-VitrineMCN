@@ -1,4 +1,4 @@
-![mcnlogoGit](https://github.com/CQEN-QDCE/exp-vitrine-MCN/assets/117953316/c7186abe-e561-4f56-93e7-1c76f48ea527)
+![MCN](https://github.com/CQEN-QDCE/.github/blob/main/images/mcn.png)
 
 
 # Prototype du IA
